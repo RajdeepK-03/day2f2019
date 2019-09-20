@@ -28,6 +28,9 @@ s1.calculateTotal();
         System.out.println(s1.getMarks3());
         System.out.println(s1.getMarks4());
         System.out.println(s1.getMarks5());
+        System.out.println(s1.getPercentage());
+        s1.generateResult();
+        System.out.println(s1.getResults());
 
 
 
